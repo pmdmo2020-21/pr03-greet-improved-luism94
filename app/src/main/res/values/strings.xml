@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Greet Improved</string>
+    <string name="button_name">Greet</string>
+    <string name="main_userName">Name</string>
+    <string name="main_userLastName">Sirname</string>
+    <string name="main_optionBox">Treatment</string>
+    <string name="main_checkBox">Politely</string>
+    <string name="main_switch">Premium</string>
+    <string name="option_1">Mr.</string>
+    <string name="option_2">Mrs.</string>
+    <string name="option_3">Ms.</string>
+    <string name="main_button_counter">%1$d of %2$d</string>
+    <string name="option_icon_desc">Gender icon</string>
+    <string name="main_trialEnd">Buy premium subscription to go on greeting!!</string>
+    <string name="main_input_hint"> </string>
+    <string name="main_charCounter">%1$d chars</string>
+    <string name="main_name_invalid">Required</string>
 </resources>

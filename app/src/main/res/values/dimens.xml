@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="main_margin_big">32dp</dimen>
+    <dimen name="main_margin_normal">16dp</dimen>
+    <dimen name="main_margin_low">8dp</dimen>
+    <dimen name="main_match_constraint">0dp</dimen>
+    <dimen name="icon_size">30dp</dimen>
+    <dimen name="bar_maxProgress">10</dimen>
+    <dimen name="input_maxLenght">20</dimen>
 </resources>
